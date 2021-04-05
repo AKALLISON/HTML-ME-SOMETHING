@@ -1,0 +1,36 @@
+
+
+img {
+    border: 6px solid rgb(48, 48, 50);
+    width: 275;
+    height: 230;
+}
+
+  .Number-One {
+   
+color: rgb(48, 48, 50)
+
+
+
+  }
+  .Title {
+
+    font-size: 38px;
+    text-decoration: underline;
+  }
+
+  body {
+
+   margin: 0; padding: 0;
+   
+    text-align: center;
+
+   font-family:fantasy;
+   background-color: rgb(199, 200, 203);
+   background-image: radial-gradient(rgba(182, 178, 178, 0.968), white, rgb(135, 136, 145));
+  
+  
+   
+
+    
+  }
